@@ -1,0 +1,1 @@
+Nosso projeto tem o objetivo de padronizar um modelo de plano de ensino que só poderá adicionar referencias bibliograficas que estão disponiveis na instituição de ensino.
